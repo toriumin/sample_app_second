@@ -1,6 +1,6 @@
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
-これは、次の教材で作られたサンプルアプリケーションです。   
+これは、次の教材で作られたサンプルアプリケーションです。
 [*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 [Michael Hartl](http://www.michaelhartl.com/) 著
 
@@ -9,6 +9,11 @@
 [Ruby on Rails チュートリアル](https://railstutorial.jp/)内にある
 ソースコードはMITライセンスとBeerwareライセンスのもとで公開されています。
 詳細は [LICENSE.md](LICENSE.md) をご覧ください。
+
+## circlCI
+
+このリポジトリは circleCI と連携しています
+-> https://circleci.com/gh/toriumin
 
 ## 使い方
 
